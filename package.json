@@ -1,7 +1,7 @@
 {
-  "name": "re-slider-table",
-  "version": "1.0.2",
-  "description": "react slideable table component",
+  "name": "re-feedback",
+  "version": "1.0.0",
+  "description": "a high order component for adding feedback effect",
   "main": "dist/",
   "dependencies": {
     "better-npm-run": "0.0.14",

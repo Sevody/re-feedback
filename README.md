@@ -5,7 +5,7 @@ a high order component for adding feedback effect inspired by [touchFeedback](ht
 ## Usage
 
 ```js
-WithFeedbackComponent = feedback(customClass)(WrappedComponent)
+WithFeedbackComponent = feedback(feedbackClass)(WrappedComponent)
 ```
 
 
