@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "airbnb"
+    ],
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "__DEV__": false,
+        "__PROD__": false
+    },
+    "rules": {
+        "key-spacing": 0,
+        "max-len": [2, 120, 2],
+        "object-curly-spacing": [2, "always"],
+        "react/jsx-indent": [2, 4],
+        "indent": ["error", 4],
+        "react/jsx-indent-props": ["error", 4],
+        "no-plusplus": 0,
+        "react/no-array-index-key": 0
+    }
+}

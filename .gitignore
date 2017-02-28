@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+logs
+*.log
+node_modules
+.happypack
